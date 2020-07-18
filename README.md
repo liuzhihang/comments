@@ -7,5 +7,5 @@ Comments on my blog https://liuzhihang.com
 
 ## 欢迎关注公众号
 
-<img src="https://liuzhihang.com/oss/pic/wechat.jpg" width = "200" height = "300" alt="" align=center />
+<img src="https://liuzhihang.com/oss/pic/wechat.jpg" width = "300" height = "300" alt="" align=center />
 
